@@ -26,7 +26,7 @@ Gosto de criar interfaces bem pensadas, funcionais e organizadas, sempre buscand
 
 ### 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geraldinhozinho&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldinhozinho&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Geraldinhozinho&layout=compact&theme=github_dark)
 
 ---
 
