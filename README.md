@@ -24,9 +24,11 @@ Gosto de criar interfaces bem pensadas, funcionais e organizadas, sempre buscand
 
 ---
 
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geraldinhozinho&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldinhozinho&layout=compact&theme=github_dark)
+## 💻 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
