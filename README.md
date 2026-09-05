@@ -27,7 +27,7 @@ Gosto de criar interfaces bem pensadas, funcionais e organizadas, sempre buscand
 ## 💻 Desenvolvimento
 
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.HHGNDqiw1FXeB_kUu1DxDAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="700" height="300">
+  <img src="https://tse4.mm.bing.net/th/id/OIP.HHGNDqiw1FXeB_kUu1DxDAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="1200" height="200">
 </p>
 
 ---
